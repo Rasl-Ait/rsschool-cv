@@ -7,27 +7,25 @@
 
 ## About me
 
-- Опыт iOS разработки больше года. Пишу на Swift, начинал с Objective-C.
-- iOS Разработчик с практическим опытом работы, есть большое желание и амбиции развиваться в этой области.
-- Создание приложений с удобным и интуитивно понятным интерфейсом.
-- Понимаю важность написания читаемого и поддерживаемого кода.
-- Знаю и понимаю жизненный цикл приложения.
-- Знание и понимание архитектурных паттернов и паттернов проектирования.
-- Есть желание учиться новым технологиям, легко обучаюсь.
+- Experience in iOS development for over a year. I write in Swift, started with Objective-C.
+- OS Developer with practical experience, there is a great desire and ambition to develop in this area.
+- Creation of applications with a convenient and intuitive interface.
+- I understand the importance of writing readable and maintainable code.
+- I know and understand the life cycle of the application.
+- Knowledge and understanding of architectural and design patterns.
+- There is a desire to learn new technologies, I am easy to learn.
 
 ## SKILLS
 
-Язык программирования: Swift (Objective-C)
-API/Frameworks: Alamofire, SwiftyJSON, CGD, MapKit
-Базы данных: Core Data, Realm, Firebase
-Архитектуры: MVC, MVVM, VIPER
-Технологии: Autolayout, REST API, SOLID, GIT
-Менеджеры зависимости: Cocoapods, Swift Package Manager
+Databases: Core Data, Realm, Firebase
+Architectures: MVC, MVVM, VIPER
+Technologies: Autolayout, REST API, SOLID, GIT
+Dependency managers: Cocoapods, Swift Package Manager
 
-- Отличное знание iOS SDK
-- Опыт разработки клиент-серверных приложений
-- Опыт разработки многопоточных приложений
-- Хорошее владение UIKit
-- Опыт работы с Git
-- Опыт реализации межсетевого взаимодействия (HTTP/S, REST API, XML, JSON)
-- Опыт публикаций приложений в AppStore.
+- Excellent knowledge of the iOS SDK
+- Experience in developing client-server applications
+- Experience in developing multi-threaded applications
+- Good command of UIKit
+- Experience with Git
+- Experience in implementing internetworking (HTTP / S, REST API, XML, JSON)
+- Experience in publishing applications in the AppStore.
